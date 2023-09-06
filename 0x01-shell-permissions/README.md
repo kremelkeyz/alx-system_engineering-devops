@@ -1,1 +1,1 @@
-file_permissins
+file_permissions
