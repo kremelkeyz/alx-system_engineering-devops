@@ -1,1 +1,1 @@
-**Having fun with shell scripts**
+**Having fun creating shell scripts**
